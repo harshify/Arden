@@ -177,6 +177,3 @@ Contributions are ❤️ welcome! To contribute:
 5️⃣ Open PR
 
 ---
-
-💬 Feel free to reach out with questions or suggestions! ✉️
-
